@@ -1,80 +1,80 @@
 
 fold #0
-pos precision:0.0
-pos recall:0.0
-pos F-measure:0
-neg precision:0.625
-neg recall:0.833333333333
-neg F-measure:0.714285714286
+pos precision:0.306451612903
+pos recall:0.223529411765
+pos F-measure:0.258503401361
+neg precision:0.561307901907
+neg recall:0.703071672355
+neg F-measure:0.624242424242
 
 fold #1
-pos precision:0.666666666667
-pos recall:0.5
-pos F-measure:0.571428571429
-neg precision:0.75
-neg recall:1.0
-neg F-measure:0.857142857143
+pos precision:0.460317460317
+pos recall:0.27358490566
+pos F-measure:0.343195266272
+neg precision:0.514851485149
+neg recall:0.773234200743
+neg F-measure:0.618127786033
 
 fold #2
-pos precision:1.0
-pos recall:0.2
-pos F-measure:0.333333333333
-neg precision:0.625
-neg recall:0.909090909091
-neg F-measure:0.740740740741
+pos precision:0.5
+pos recall:0.286956521739
+pos F-measure:0.364640883978
+neg precision:0.550802139037
+neg recall:0.722807017544
+neg F-measure:0.625189681335
 
 fold #3
-pos precision:0.5
-pos recall:0.2
-pos F-measure:0.285714285714
-neg precision:0.529411764706
-neg recall:0.818181818182
-neg F-measure:0.642857142857
+pos precision:0.367647058824
+pos recall:0.240384615385
+pos F-measure:0.290697674419
+neg precision:0.572538860104
+neg recall:0.770034843206
+neg F-measure:0.65676077266
 
 fold #4
-pos precision:0.0
-pos recall:0.0
-pos F-measure:0
-neg precision:0.777777777778
-neg recall:0.933333333333
-neg F-measure:0.848484848485
-
-fold #5
-pos precision:0.0
-pos recall:0.0
-pos F-measure:0
-neg precision:0.578947368421
-neg recall:0.916666666667
-neg F-measure:0.709677419355
-
-fold #6
-pos precision:0.333333333333
-pos recall:0.25
-pos F-measure:0.285714285714
-neg precision:0.466666666667
-neg recall:0.7
-neg F-measure:0.56
-
-fold #7
-pos precision:1.0
-pos recall:0.25
-pos F-measure:0.4
-neg precision:0.5625
-neg recall:0.75
+pos precision:0.36
+pos recall:0.272727272727
+pos F-measure:0.310344827586
+neg precision:0.577540106952
+neg recall:0.724832214765
 neg F-measure:0.642857142857
 
+fold #5
+pos precision:0.376811594203
+pos recall:0.232142857143
+pos F-measure:0.28729281768
+neg precision:0.559139784946
+neg recall:0.729824561404
+neg F-measure:0.633181126332
+
+fold #6
+pos precision:0.394736842105
+pos recall:0.283018867925
+pos F-measure:0.32967032967
+neg precision:0.595687331536
+neg recall:0.739130434783
+neg F-measure:0.659701492537
+
+fold #7
+pos precision:0.473684210526
+pos recall:0.228813559322
+pos F-measure:0.308571428571
+neg precision:0.604838709677
+neg recall:0.760135135135
+neg F-measure:0.673652694611
+
 fold #8
-pos precision:0.0
-pos recall:0.0
-pos F-measure:0
-neg precision:0.6
-neg recall:0.818181818182
-neg F-measure:0.692307692308
+pos precision:0.40625
+pos recall:0.236363636364
+pos F-measure:0.298850574713
+neg precision:0.580474934037
+neg recall:0.763888888889
+neg F-measure:0.659670164918
 
 fold #9
-pos precision:None
-pos recall:0.0
-pos F-measure:None
-neg precision:0.666666666667
-neg recall:0.923076923077
-neg F-measure:0.774193548387
+pos precision:0.35
+pos recall:0.233333333333
+pos F-measure:0.28
+neg precision:0.595505617978
+neg recall:0.723549488055
+neg F-measure:0.653312788906
